@@ -158,7 +158,7 @@ Fully synthetic. No external or public data, no personal data (names are invente
 
 ## 10. AI usage and prompt history
 
-This project was built with the help of an AI coding assistant (Claude Code). The tool used, what it did, what the author did, and every prompt submitted are documented in [`prompt_history/`](prompt_history): [`AI_USAGE.md`](prompt_history/AI_USAGE.md) and [`prompts.md`](prompt_history/prompts.md).
+This project was built with the help of an AI coding assistant (Claude Code). The tool used and every prompt submitted are documented in [`prompt_history/`](prompt_history): [`README.md`](prompt_history/README.md) and [`prompt_history.md`](prompt_history/prompt_history.md).
 
 ## 11. Layout
 
