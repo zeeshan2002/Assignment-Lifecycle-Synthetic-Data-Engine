@@ -1,0 +1,7 @@
+# Generated artefacts must stay byte-identical (checksums are verified), so never rewrite line endings.
+* text=auto eol=lf
+*.sqlite binary
+*.csv -text
+*.json -text
+*.sql -text
+sample_data/** -text

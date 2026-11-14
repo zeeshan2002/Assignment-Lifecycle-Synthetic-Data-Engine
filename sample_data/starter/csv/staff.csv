@@ -1,0 +1,16 @@
+staff_id,full_name,email,role,department,status,hired_at_utc
+INS-000001,Dakota White,dakota.white.ins001@staff.univ.edu,INSTRUCTOR,Computer Science,ACTIVE,2015-01-31T12:00:00Z
+INS-000002,Eden Ramirez,eden.ramirez.ins002@staff.univ.edu,INSTRUCTOR,Data Science,ACTIVE,2016-08-10T03:00:00Z
+INS-000003,Taylor Anderson,taylor.anderson.ins003@staff.univ.edu,INSTRUCTOR,Mathematics,ACTIVE,2018-11-05T16:00:00Z
+INS-000004,Chris Wilson,chris.wilson.ins004@staff.univ.edu,INSTRUCTOR,Engineering,ACTIVE,2021-05-07T20:00:00Z
+INS-000005,Lucas Roberts,lucas.roberts.ins005@staff.univ.edu,INSTRUCTOR,Business,ACTIVE,2024-05-08T16:00:00Z
+INS-000006,Mei Torres,mei.torres.ins006@staff.univ.edu,INSTRUCTOR,Computer Science,ACTIVE,2015-10-08T10:00:00Z
+INS-000007,Kendall Rodriguez,kendall.rodriguez.ins007@staff.univ.edu,INSTRUCTOR,Data Science,ACTIVE,2019-06-29T05:00:00Z
+INS-000008,Jesse Scott,jesse.scott.ins008@staff.univ.edu,INSTRUCTOR,Mathematics,ACTIVE,2017-07-18T09:00:00Z
+ADM-000001,Jesse Taylor,jesse.taylor.adm001@staff.univ.edu,ACADEMIC_ADMIN,,ACTIVE,2016-03-15T13:00:00Z
+ADM-000002,Jamie Jackson,jamie.jackson.adm002@staff.univ.edu,ACADEMIC_ADMIN,,ACTIVE,2020-06-03T05:00:00Z
+ADM-000003,Olivia Hall,olivia.hall.adm003@staff.univ.edu,ACADEMIC_ADMIN,,ACTIVE,2018-07-23T23:00:00Z
+SUP-000001,River Kim,river.kim.sup001@staff.univ.edu,SUPPORT_STAFF,,ACTIVE,2021-03-07T16:00:00Z
+SUP-000002,Priya Green,priya.green.sup002@staff.univ.edu,SUPPORT_STAFF,,ACTIVE,2019-07-16T17:00:00Z
+SUP-000003,Sawyer Gonzalez,sawyer.gonzalez.sup003@staff.univ.edu,SUPPORT_STAFF,,ACTIVE,2017-07-08T04:00:00Z
+PLT-000001,Jamie Clark,jamie.clark.plt001@staff.univ.edu,PLATFORM_ADMIN,,ACTIVE,2022-08-13T20:00:00Z

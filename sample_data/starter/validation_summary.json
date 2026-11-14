@@ -1,0 +1,173 @@
+{
+  "summary": {
+    "all_passed": true,
+    "total_checks": 105812,
+    "total_violations": 12,
+    "labelled_anomaly_violations": 12,
+    "unexpected_violations": 0
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "name": "Primary keys, ID formats and ID derivation",
+      "status": "PASS",
+      "checks": 14396,
+      "violations": 0,
+      "labelled_anomaly_violations": 0,
+      "unexpected_violations": 0,
+      "violations_by_rule": {},
+      "sample_unexpected": []
+    },
+    {
+      "stage": 2,
+      "name": "Foreign keys and join integrity (incl. enrolment window)",
+      "status": "PASS_WITH_LABELLED_ANOMALIES",
+      "checks": 19580,
+      "violations": 2,
+      "labelled_anomaly_violations": 2,
+      "unexpected_violations": 0,
+      "violations_by_rule": {
+        "ENROLLMENT_WINDOW": 2
+      },
+      "sample_unexpected": []
+    },
+    {
+      "stage": 3,
+      "name": "Domain: required fields, enums, ranges, cross-field rules",
+      "status": "PASS",
+      "checks": 3893,
+      "violations": 0,
+      "labelled_anomaly_violations": 0,
+      "unexpected_violations": 0,
+      "violations_by_rule": {},
+      "sample_unexpected": []
+    },
+    {
+      "stage": 4,
+      "name": "Chronology and data cut-off",
+      "status": "PASS",
+      "checks": 31147,
+      "violations": 0,
+      "labelled_anomaly_violations": 0,
+      "unexpected_violations": 0,
+      "violations_by_rule": {},
+      "sample_unexpected": []
+    },
+    {
+      "stage": 5,
+      "name": "Arithmetic reconciliation, rubric scoring, time-zone due logic",
+      "status": "PASS_WITH_LABELLED_ANOMALIES",
+      "checks": 20549,
+      "violations": 4,
+      "labelled_anomaly_violations": 4,
+      "unexpected_violations": 0,
+      "violations_by_rule": {
+        "GRADE_MAX": 2,
+        "LATE_PENALTY_RULE": 2
+      },
+      "sample_unexpected": []
+    },
+    {
+      "stage": 6,
+      "name": "Lifecycle state machines, version history and policy rules",
+      "status": "PASS_WITH_LABELLED_ANOMALIES",
+      "checks": 14583,
+      "violations": 6,
+      "labelled_anomaly_violations": 6,
+      "unexpected_violations": 0,
+      "violations_by_rule": {
+        "POLICY_RESUBMISSION": 2,
+        "APPEAL_AUDIT": 2,
+        "POLICY_APPEAL_WINDOW": 2
+      },
+      "sample_unexpected": []
+    },
+    {
+      "stage": 7,
+      "name": "Duplicate and contiguity checks",
+      "status": "PASS",
+      "checks": 1407,
+      "violations": 0,
+      "labelled_anomaly_violations": 0,
+      "unexpected_violations": 0,
+      "violations_by_rule": {},
+      "sample_unexpected": []
+    },
+    {
+      "stage": 8,
+      "name": "Ground-truth reconciliation (precision / recall)",
+      "status": "PASS",
+      "checks": 257,
+      "violations": 0,
+      "labelled_anomaly_violations": 0,
+      "unexpected_violations": 0,
+      "violations_by_rule": {},
+      "sample_unexpected": []
+    }
+  ],
+  "ground_truth": {
+    "per_type": {
+      "UNENROLLED_LEARNER_SUBMISSION": {
+        "labelled": 2,
+        "detected": 2,
+        "true_positive": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "GRADE_EXCEEDS_MAX": {
+        "labelled": 2,
+        "detected": 2,
+        "true_positive": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "DOUBLE_LATE_PENALTY": {
+        "labelled": 2,
+        "detected": 2,
+        "true_positive": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "APPEAL_NO_AUDIT_LOG": {
+        "labelled": 2,
+        "detected": 2,
+        "true_positive": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "RESUBMISSION_POLICY_VIOLATION": {
+        "labelled": 2,
+        "detected": 2,
+        "true_positive": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "APPEAL_OUTSIDE_WINDOW_UPHELD": {
+        "labelled": 2,
+        "detected": 2,
+        "true_positive": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      }
+    },
+    "labelled_anomalies": 12,
+    "detected_anomalies": 12,
+    "label_counts": {
+      "ANOMALY": 12,
+      "EXCEPTION_PATH": 121,
+      "BOUNDARY_VALID": 5
+    }
+  }
+}

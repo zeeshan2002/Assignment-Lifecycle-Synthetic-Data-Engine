@@ -1,0 +1,27 @@
+[
+{"course_staff_id": "CSF-000001", "course_id": "CRS-2026-0001", "staff_id": "INS-000001", "course_role": "LEAD_INSTRUCTOR", "effective_from_utc": "2026-04-28T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000002", "course_id": "CRS-2026-0001", "staff_id": "INS-000006", "course_role": "GRADER", "effective_from_utc": "2026-04-28T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000003", "course_id": "CRS-2026-0001", "staff_id": "INS-000005", "course_role": "GRADER", "effective_from_utc": "2026-04-28T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000004", "course_id": "CRS-2026-0002", "staff_id": "INS-000002", "course_role": "LEAD_INSTRUCTOR", "effective_from_utc": "2026-01-17T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000005", "course_id": "CRS-2026-0002", "staff_id": "INS-000004", "course_role": "GRADER", "effective_from_utc": "2026-01-17T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000006", "course_id": "CRS-2026-0003", "staff_id": "INS-000005", "course_role": "LEAD_INSTRUCTOR", "effective_from_utc": "2026-01-09T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000007", "course_id": "CRS-2026-0003", "staff_id": "INS-000006", "course_role": "GRADER", "effective_from_utc": "2026-01-09T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000008", "course_id": "CRS-2026-0004", "staff_id": "INS-000004", "course_role": "LEAD_INSTRUCTOR", "effective_from_utc": "2026-09-12T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000009", "course_id": "CRS-2026-0004", "staff_id": "INS-000007", "course_role": "GRADER", "effective_from_utc": "2026-09-12T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000010", "course_id": "CRS-2026-0005", "staff_id": "INS-000004", "course_role": "LEAD_INSTRUCTOR", "effective_from_utc": "2026-05-02T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000011", "course_id": "CRS-2026-0005", "staff_id": "INS-000006", "course_role": "GRADER", "effective_from_utc": "2026-05-02T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000012", "course_id": "CRS-2026-0006", "staff_id": "INS-000005", "course_role": "LEAD_INSTRUCTOR", "effective_from_utc": "2026-01-18T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000013", "course_id": "CRS-2026-0006", "staff_id": "INS-000002", "course_role": "GRADER", "effective_from_utc": "2026-01-18T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000014", "course_id": "CRS-2026-0006", "staff_id": "INS-000001", "course_role": "GRADER", "effective_from_utc": "2026-01-18T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000015", "course_id": "CRS-2026-0007", "staff_id": "INS-000007", "course_role": "LEAD_INSTRUCTOR", "effective_from_utc": "2026-09-10T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000016", "course_id": "CRS-2026-0007", "staff_id": "INS-000005", "course_role": "GRADER", "effective_from_utc": "2026-09-10T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000017", "course_id": "CRS-2026-0007", "staff_id": "INS-000006", "course_role": "GRADER", "effective_from_utc": "2026-09-10T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000018", "course_id": "CRS-2026-0008", "staff_id": "INS-000003", "course_role": "LEAD_INSTRUCTOR", "effective_from_utc": "2026-05-06T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000019", "course_id": "CRS-2026-0008", "staff_id": "INS-000005", "course_role": "GRADER", "effective_from_utc": "2026-05-06T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000020", "course_id": "CRS-2026-0008", "staff_id": "INS-000001", "course_role": "GRADER", "effective_from_utc": "2026-05-06T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000021", "course_id": "CRS-2026-0009", "staff_id": "INS-000002", "course_role": "LEAD_INSTRUCTOR", "effective_from_utc": "2026-01-10T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000022", "course_id": "CRS-2026-0009", "staff_id": "INS-000006", "course_role": "GRADER", "effective_from_utc": "2026-01-10T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000023", "course_id": "CRS-2026-0009", "staff_id": "INS-000005", "course_role": "GRADER", "effective_from_utc": "2026-01-10T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000024", "course_id": "CRS-2026-0010", "staff_id": "INS-000002", "course_role": "LEAD_INSTRUCTOR", "effective_from_utc": "2026-05-02T08:00:00Z", "effective_to_utc": null}
+,{"course_staff_id": "CSF-000025", "course_id": "CRS-2026-0010", "staff_id": "INS-000001", "course_role": "GRADER", "effective_from_utc": "2026-05-02T08:00:00Z", "effective_to_utc": null}
+]

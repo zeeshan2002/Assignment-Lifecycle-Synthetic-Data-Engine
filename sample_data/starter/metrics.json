@@ -1,0 +1,198 @@
+{
+  "volume": {
+    "staff": 15,
+    "courses": 10,
+    "course_staff": 25,
+    "learners": 500,
+    "enrollments": 1023,
+    "assignments": 50,
+    "rubrics": 52,
+    "rubric_criteria": 203,
+    "submissions": 1500,
+    "submission_artifacts": 2142,
+    "grades": 1497,
+    "appeals": 53,
+    "grade_versions": 1521,
+    "grade_criterion_scores": 5907,
+    "feedback": 1497,
+    "resubmissions": 170,
+    "audit_logs": 7372
+  },
+  "participation": {
+    "published_assignments": 49,
+    "draft_assignments": 1,
+    "enrolled_learner_assignment_pairs": 4829,
+    "first_attempt_submissions": 1396,
+    "submission_rate_pct": 28.91,
+    "learners_with_no_submission": 64
+  },
+  "timeliness": {
+    "first_attempt_late_rate_pct": 11.25,
+    "mean_late_days_of_late": 1.76,
+    "late_days_distribution": {
+      "1": 86,
+      "2": 42,
+      "3": 17,
+      "4": 5,
+      "5": 7
+    },
+    "assignments_by_timezone": {
+      "Europe/London": 15,
+      "America/Los_Angeles": 15,
+      "America/New_York": 10,
+      "UTC": 10
+    },
+    "assignments_with_grace_period_pct": 28.0
+  },
+  "files": {
+    "file_issue_rate_pct": 1.67,
+    "by_status": {
+      "COMPLETE": 1475,
+      "MISSING_FILE": 16,
+      "EMPTY_FILE": 9
+    },
+    "artifacts_per_submission_mean": 1.43
+  },
+  "grading": {
+    "graded_submissions": 1497,
+    "pending_grading": 3,
+    "first_attempt_final_mean": 77.94,
+    "first_attempt_final_median": 80.0,
+    "first_attempt_final_stdev": 15.68,
+    "score_bands_first_attempt": {
+      "70-79": 369,
+      "60-69": 203,
+      "90-100": 291,
+      "80-89": 423,
+      "<50": 44,
+      ">100": 2,
+      "50-59": 64
+    },
+    "mean_late_penalty_points_when_late": 8.78,
+    "grading_turnaround_hours": {
+      "median": 71.12,
+      "p90": 145.75
+    },
+    "rubric_attainment_pct_by_criterion": {
+      "Algorithm Implementation": 82.4,
+      "Analysis & Approach": 78.7,
+      "Code Quality & Architecture": 76.4,
+      "Data Integrity & Validation": 78.6,
+      "Documentation & Readme": 81.1,
+      "Documentation & Traceability": 79.6,
+      "Evaluation": 82.8,
+      "Functional Implementation": 77.8,
+      "Implementation": 72.6,
+      "Performance & Scaling": 80.5,
+      "Presentation": 78.9,
+      "Problem Solving & Core Logic": 82.4,
+      "Technical Reporting": 69.7,
+      "Test Coverage & Harness": 80.4,
+      "Testing & Verification": 77.5,
+      "Validation & Error Handling": 80.6
+    },
+    "rubrics_revised_after_publication": 2,
+    "grades_revised_on_appeal": 26
+  },
+  "resubmission": {
+    "requests": 170,
+    "by_status": {
+      "APPROVED": 104,
+      "DENIED": 46,
+      "EXPIRED": 20
+    },
+    "decision_reasons": {
+      "APPROVED_SCORE_BELOW_THRESHOLD": 113,
+      "DENIED_OUTSIDE_WINDOW": 16,
+      "APPROVED_MISSING_FILE": 11,
+      "DENIED_SCORE_ABOVE_THRESHOLD": 30
+    },
+    "approval_rate_pct": 72.94,
+    "attempts_distribution": {
+      "1": 1396,
+      "2": 98,
+      "3": 6
+    },
+    "resubmission_attempts_pct_of_submissions": 6.93,
+    "mean_raw_score_uplift": 20.72
+  },
+  "appeals": {
+    "appeals": 53,
+    "appeal_rate_pct_of_grades": 3.54,
+    "by_status": {
+      "UPHELD": 26,
+      "REJECTED": 27
+    },
+    "by_reason": {
+      "RUBRIC_MISAPPLIED": 19,
+      "MISSING_FILE_DISPUTE": 2,
+      "GRADING_ERROR": 23,
+      "LATE_PENALTY_ERROR": 4,
+      "OTHER": 5
+    },
+    "by_decision": {
+      "UPHELD_GRADING_ERROR": 26,
+      "REJECTED_NO_ERROR": 19,
+      "REJECTED_OUT_OF_WINDOW": 8
+    },
+    "uphold_rate_pct_of_decided": 49.06,
+    "mean_points_gained_when_upheld": 6.63,
+    "decision_time_days": {
+      "median": 4.92,
+      "p90": 6.9
+    },
+    "open_appeals_at_cutoff": 0
+  },
+  "population": {
+    "enrollment_status": {
+      "COMPLETED": 745,
+      "DROPPED": 67,
+      "ENROLLED": 174,
+      "AUDIT": 37
+    },
+    "learner_status": {
+      "ACTIVE": 468,
+      "SUSPENDED": 24,
+      "ALUMNI": 8
+    },
+    "courses_by_term": {
+      "SUMMER-2026": 4,
+      "SPRING-2026": 4,
+      "FALL-2026": 2
+    },
+    "submission_status": {
+      "GRADED": 1393,
+      "RESUBMITTED": 104,
+      "SUBMITTED": 3
+    },
+    "assignment_status": {
+      "CLOSED": 49,
+      "DRAFT": 1
+    },
+    "audit_events_by_action": {
+      "COURSE_CREATE": 10,
+      "ENROLL": 1023,
+      "ASSIGNMENT_CREATE": 50,
+      "RUBRIC_CREATE": 52,
+      "ASSIGNMENT_PUBLISH": 49,
+      "SUBMISSION_CREATE": 1500,
+      "GRADE_PUBLISH": 1497,
+      "SUBMISSION_GRADED": 1497,
+      "FILE_FLAG": 25,
+      "ENROLLMENT_END": 812,
+      "RESUBMISSION_REQUEST": 170,
+      "RESUBMISSION_DECIDE": 170,
+      "SUBMISSION_SUPERSEDED": 104,
+      "ASSIGNMENT_CLOSE": 49,
+      "APPEAL_FILE": 53,
+      "SUBMISSION_APPEALED": 53,
+      "APPEAL_INTAKE": 53,
+      "APPEAL_REVIEW_START": 53,
+      "APPEAL_RESOLVE": 53,
+      "SUBMISSION_APPEAL_CLOSED": 53,
+      "GRADE_MUTATE": 24,
+      "RUBRIC_SUPERSEDE": 2,
+      "RESUBMISSION_EXPIRE": 20
+    }
+  }
+}

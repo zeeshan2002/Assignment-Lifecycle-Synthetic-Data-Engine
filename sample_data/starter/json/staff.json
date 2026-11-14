@@ -1,0 +1,17 @@
+[
+{"staff_id": "INS-000001", "full_name": "Dakota White", "email": "dakota.white.ins001@staff.univ.edu", "role": "INSTRUCTOR", "department": "Computer Science", "status": "ACTIVE", "hired_at_utc": "2015-01-31T12:00:00Z"}
+,{"staff_id": "INS-000002", "full_name": "Eden Ramirez", "email": "eden.ramirez.ins002@staff.univ.edu", "role": "INSTRUCTOR", "department": "Data Science", "status": "ACTIVE", "hired_at_utc": "2016-08-10T03:00:00Z"}
+,{"staff_id": "INS-000003", "full_name": "Taylor Anderson", "email": "taylor.anderson.ins003@staff.univ.edu", "role": "INSTRUCTOR", "department": "Mathematics", "status": "ACTIVE", "hired_at_utc": "2018-11-05T16:00:00Z"}
+,{"staff_id": "INS-000004", "full_name": "Chris Wilson", "email": "chris.wilson.ins004@staff.univ.edu", "role": "INSTRUCTOR", "department": "Engineering", "status": "ACTIVE", "hired_at_utc": "2021-05-07T20:00:00Z"}
+,{"staff_id": "INS-000005", "full_name": "Lucas Roberts", "email": "lucas.roberts.ins005@staff.univ.edu", "role": "INSTRUCTOR", "department": "Business", "status": "ACTIVE", "hired_at_utc": "2024-05-08T16:00:00Z"}
+,{"staff_id": "INS-000006", "full_name": "Mei Torres", "email": "mei.torres.ins006@staff.univ.edu", "role": "INSTRUCTOR", "department": "Computer Science", "status": "ACTIVE", "hired_at_utc": "2015-10-08T10:00:00Z"}
+,{"staff_id": "INS-000007", "full_name": "Kendall Rodriguez", "email": "kendall.rodriguez.ins007@staff.univ.edu", "role": "INSTRUCTOR", "department": "Data Science", "status": "ACTIVE", "hired_at_utc": "2019-06-29T05:00:00Z"}
+,{"staff_id": "INS-000008", "full_name": "Jesse Scott", "email": "jesse.scott.ins008@staff.univ.edu", "role": "INSTRUCTOR", "department": "Mathematics", "status": "ACTIVE", "hired_at_utc": "2017-07-18T09:00:00Z"}
+,{"staff_id": "ADM-000001", "full_name": "Jesse Taylor", "email": "jesse.taylor.adm001@staff.univ.edu", "role": "ACADEMIC_ADMIN", "department": null, "status": "ACTIVE", "hired_at_utc": "2016-03-15T13:00:00Z"}
+,{"staff_id": "ADM-000002", "full_name": "Jamie Jackson", "email": "jamie.jackson.adm002@staff.univ.edu", "role": "ACADEMIC_ADMIN", "department": null, "status": "ACTIVE", "hired_at_utc": "2020-06-03T05:00:00Z"}
+,{"staff_id": "ADM-000003", "full_name": "Olivia Hall", "email": "olivia.hall.adm003@staff.univ.edu", "role": "ACADEMIC_ADMIN", "department": null, "status": "ACTIVE", "hired_at_utc": "2018-07-23T23:00:00Z"}
+,{"staff_id": "SUP-000001", "full_name": "River Kim", "email": "river.kim.sup001@staff.univ.edu", "role": "SUPPORT_STAFF", "department": null, "status": "ACTIVE", "hired_at_utc": "2021-03-07T16:00:00Z"}
+,{"staff_id": "SUP-000002", "full_name": "Priya Green", "email": "priya.green.sup002@staff.univ.edu", "role": "SUPPORT_STAFF", "department": null, "status": "ACTIVE", "hired_at_utc": "2019-07-16T17:00:00Z"}
+,{"staff_id": "SUP-000003", "full_name": "Sawyer Gonzalez", "email": "sawyer.gonzalez.sup003@staff.univ.edu", "role": "SUPPORT_STAFF", "department": null, "status": "ACTIVE", "hired_at_utc": "2017-07-08T04:00:00Z"}
+,{"staff_id": "PLT-000001", "full_name": "Jamie Clark", "email": "jamie.clark.plt001@staff.univ.edu", "role": "PLATFORM_ADMIN", "department": null, "status": "ACTIVE", "hired_at_utc": "2022-08-13T20:00:00Z"}
+]

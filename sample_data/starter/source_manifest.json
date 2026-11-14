@@ -1,0 +1,249 @@
+{
+  "generator": {
+    "name": "AMS Assignment Lifecycle Synthetic Data Engine",
+    "version": "2.0.0"
+  },
+  "command": "python generate.py --seed 20261022 --scale starter --output-dir ./data",
+  "seed": 20261022,
+  "scale": "starter",
+  "scale_parameters": {
+    "name": "starter",
+    "num_courses": 10,
+    "num_learners": 500,
+    "num_assignments": 50,
+    "num_submissions": 1500,
+    "num_instructors": 8,
+    "num_admins": 3,
+    "num_support": 3,
+    "num_platform": 1,
+    "enroll_weights": [
+      0.25,
+      0.45,
+      0.3
+    ],
+    "anomalies_per_type": 2,
+    "boundary_rate": 0.01,
+    "draft_rate": 0.02,
+    "rubric_revision_rate": 0.06,
+    "file_issue_rate": 0.025,
+    "grading_error_rate": 0.06
+  },
+  "data_cutoff_utc": "2026-11-13T00:00:00Z",
+  "row_counts": {
+    "staff": 15,
+    "courses": 10,
+    "course_staff": 25,
+    "learners": 500,
+    "enrollments": 1023,
+    "assignments": 50,
+    "rubrics": 52,
+    "rubric_criteria": 203,
+    "submissions": 1500,
+    "submission_artifacts": 2142,
+    "grades": 1497,
+    "appeals": 53,
+    "grade_versions": 1521,
+    "grade_criterion_scores": 5907,
+    "feedback": 1497,
+    "resubmissions": 170,
+    "audit_logs": 7372,
+    "ground_truth": 138
+  },
+  "files": {
+    "csv/appeals.csv": {
+      "bytes": 20776,
+      "sha256": "9466f0cc58054a92ebb32fbe86eca4e884d082df2e96ce047902a07cb5095f13"
+    },
+    "csv/assignments.csv": {
+      "bytes": 20427,
+      "sha256": "3cfca8eb706164c282cbb1e80b4db414e9a4143ed9346347b01bb3318058afab"
+    },
+    "csv/audit_logs.csv": {
+      "bytes": 1411278,
+      "sha256": "b708b075c016c411b2d48da276fffa25e9e0c1297924537d2a8915438177f210"
+    },
+    "csv/course_staff.csv": {
+      "bytes": 1798,
+      "sha256": "d669965914eadb65ffc372a5a72687ef7744ac14d1f509593582a9e69689cc63"
+    },
+    "csv/courses.csv": {
+      "bytes": 1782,
+      "sha256": "28917011b7c4fa1422626ee1fd2de48be0c164c5ef58282f20aa63e4b073ad04"
+    },
+    "csv/enrollments.csv": {
+      "bytes": 96700,
+      "sha256": "38ac22443dbd4935382cb2f47c5c071f839a9add4f12d57b5911a3ec2341a5e1"
+    },
+    "csv/feedback.csv": {
+      "bytes": 403693,
+      "sha256": "53a1ab8a2cdcf50ddd0e1e77f7c5426bfb744f9d335ed2068363aec73f0379ca"
+    },
+    "csv/grade_criterion_scores.csv": {
+      "bytes": 972640,
+      "sha256": "e7f7b56866f200770468a94c426f592492763f97844734dc7b260032e46c19d1"
+    },
+    "csv/grade_versions.csv": {
+      "bytes": 225902,
+      "sha256": "cdb0b0c11b53faaea3a42559bc6c4c2b9c7fc3d43041c56d423e507ce4c701ee"
+    },
+    "csv/grades.csv": {
+      "bytes": 241161,
+      "sha256": "bad63c82cf5df78a3eb0f6773e7d4251d89fa02324d1ef2d0f6e7d3e813b7205"
+    },
+    "csv/learners.csv": {
+      "bytes": 41439,
+      "sha256": "81f1f81193e04e0e61ed46a9a8b22ef35c58d94149a10e06e43b15278062268e"
+    },
+    "csv/resubmissions.csv": {
+      "bytes": 47020,
+      "sha256": "01bc7c877a4b224397e16add1d02c3c704aa011f71845a9858ea4373bf242473"
+    },
+    "csv/rubric_criteria.csv": {
+      "bytes": 24692,
+      "sha256": "8a351a2d2ba7366c7afdac5a097b569b4ac3a5c9620d859f2ac110e181d50e8a"
+    },
+    "csv/rubrics.csv": {
+      "bytes": 9176,
+      "sha256": "530bedb3d232fbe7ae68c9089c28231e4535c73a79d24ff35342bd80be9b71fa"
+    },
+    "csv/staff.csv": {
+      "bytes": 1676,
+      "sha256": "a3470d2b830a7db33f6d5357a694ee74d4068c856cac2564365fa43f8e44ec55"
+    },
+    "csv/submission_artifacts.csv": {
+      "bytes": 631494,
+      "sha256": "9cf4a75c7f39c22165f41618700af56f7814a0638300db5eef6f1111a1652327"
+    },
+    "csv/submissions.csv": {
+      "bytes": 218549,
+      "sha256": "81e03f447886c58195ac7d8561d868dcdb82705ff13e89e0ff5ed67355d3df88"
+    },
+    "data_dictionary.md": {
+      "bytes": 33853,
+      "sha256": "fec3265970e2c1ce895d16ec31439b4fa33c82a5648e08392e5e9970a167af03"
+    },
+    "ground_truth/ground_truth.csv": {
+      "bytes": 30922,
+      "sha256": "004cb3208cee6f5b0b8c7968e2304b24f3c32a6eca7578b39a08c83ecb91c629"
+    },
+    "ground_truth/ground_truth.json": {
+      "bytes": 57237,
+      "sha256": "20834c27ff45354989625396750fae11bdc170eb860a05f0e574ea5d9bea8e27"
+    },
+    "json/appeals.json": {
+      "bytes": 36211,
+      "sha256": "bed16fd568d7e362b01e5f3dbcca094ad256fb31ad032a594742554f4b311692"
+    },
+    "json/assignments.json": {
+      "bytes": 39989,
+      "sha256": "0d546986c45688d7f400f17308d036ca18bbea90b28bc1a8c787f88941718ae4"
+    },
+    "json/audit_logs.json": {
+      "bytes": 2823223,
+      "sha256": "fcdbad3ead487241768a4f0145487a2ba6f8312768534150b7ec7b5df8c42b18"
+    },
+    "json/course_staff.json": {
+      "bytes": 4793,
+      "sha256": "9d7fd83f2bdaf1667b3504c729acb29b9189938921d7ef85967cda42946e3eec"
+    },
+    "json/courses.json": {
+      "bytes": 3413,
+      "sha256": "15125e23c2d310fb2b1ec593c8933f8c162eacf446ef3d75896016be80331def"
+    },
+    "json/enrollments.json": {
+      "bytes": 243315,
+      "sha256": "16121e3c411b61de3c23d595fa279e8c74b30c8dd165cfdf46448a6c508a69dd"
+    },
+    "json/feedback.json": {
+      "bytes": 616992,
+      "sha256": "ccd1e03a819020fa972fd5be61dad3ed72bf9a542ba2ec5c7ba28d705ecb8725"
+    },
+    "json/grade_criterion_scores.json": {
+      "bytes": 1521930,
+      "sha256": "a950f1cf392e1438cad726308ce62e3d8a5ef114065ebe75bf9f2c0c099ce119"
+    },
+    "json/grade_versions.json": {
+      "bytes": 531433,
+      "sha256": "af0982d9c84cb7ce5a5dc287ffcd725a693ce7e5ff43f3e43cab41f271a8f55b"
+    },
+    "json/grades.json": {
+      "bytes": 540418,
+      "sha256": "84e57449fb62a1e70da5a66e86e1aaf78bc17801c844d06b5c6514361560e688"
+    },
+    "json/learners.json": {
+      "bytes": 110785,
+      "sha256": "b96e97287bf5b280bb8a54089f12e18feee1e64475624375f24ac6c85b363a03"
+    },
+    "json/resubmissions.json": {
+      "bytes": 92574,
+      "sha256": "a755d776b7cf35a6702d3dbc1c9be87a32b726deea251c7446545b9ba382eec1"
+    },
+    "json/rubric_criteria.json": {
+      "bytes": 48869,
+      "sha256": "ad1f5cf436a9c7c068fcfd6b728a1c2b9d2e0d74bf9e35bdc0f5f5982ab0ae29"
+    },
+    "json/rubrics.json": {
+      "bytes": 18516,
+      "sha256": "2ffcf33b9b695aee9f5faec4df75be6ca1d85a0773ef3dd1d2cc49a5708c8421"
+    },
+    "json/staff.json": {
+      "bytes": 3207,
+      "sha256": "bdb56d4b36a57ac970ec482013b5a21469b99ec50c205e4759c674dafd82dc7e"
+    },
+    "json/submission_artifacts.json": {
+      "bytes": 995519,
+      "sha256": "10dfc5ec922e7f44e5535a2a710bfbe358aab0ad60413ef20009a119be67cccf"
+    },
+    "json/submissions.json": {
+      "bytes": 621653,
+      "sha256": "845522e1989a6b4f0cb0256b5f57d67e5ab8cea3b35dd4a6008f4c1a1dab3bf7"
+    },
+    "metrics.json": {
+      "bytes": 4905,
+      "sha256": "b96c71184debbc5d16f0c1e9c25d5be5cc7a9a2d89741e8b6e99356c0991ebc7"
+    },
+    "metrics.md": {
+      "bytes": 4349,
+      "sha256": "7e248a7abfb71c149238842674bb977bd524d1b38302ae81961fa8abf4656c01"
+    },
+    "sql/ams.sqlite": {
+      "bytes": 7012352,
+      "sha256": "8e789cce693dc9cc456f643703e6b313923f2f74361f41a2cd10df0d6b1a0e15"
+    },
+    "sql/schema.sql": {
+      "bytes": 12699,
+      "sha256": "8476ff1d023237ec0f777592026e8f7d44bac1a5f5b1da8eaf495862d720542d"
+    },
+    "sql/seed_data.sql": {
+      "bytes": 4933048,
+      "sha256": "49e28b66513fba4a70648d300221807b78f269e6577691cb025099a23e6c277d"
+    },
+    "validation_summary.json": {
+      "bytes": 4442,
+      "sha256": "6b08a20c0de7a24b81203d46c14ef4974c1bdf8d5014dc49a6f0e8250f1af1fc"
+    },
+    "validation_summary.md": {
+      "bytes": 1951,
+      "sha256": "39e3781efbefba5f5a837ec87ff9abf8c523a06fcd082eb9414a5cc1bdcd4062"
+    }
+  },
+  "provenance": {
+    "source": "Fully synthetic: deterministic PRNG (Python random.Random, SHA-256-derived sub-streams) + documented business rules",
+    "external_data_used": false,
+    "external_sources": [],
+    "personal_data": "none (invented names, example e-mail domains)",
+    "license": "Generated data is original synthetic content; no third-party licence terms apply",
+    "fields_discarded": [],
+    "transformations": []
+  },
+  "environment": {
+    "python": "3.14.3"
+  },
+  "validation": {
+    "all_passed": true,
+    "total_checks": 105812,
+    "total_violations": 12,
+    "labelled_anomaly_violations": 12,
+    "unexpected_violations": 0
+  }
+}

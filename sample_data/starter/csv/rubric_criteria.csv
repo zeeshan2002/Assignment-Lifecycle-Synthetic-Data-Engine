@@ -1,0 +1,204 @@
+criterion_id,rubric_id,sequence_no,criterion_name,description,max_points,weight_pct
+CRT-RUB-ASN-2026-000001-01-01,RUB-ASN-2026-000001-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000001-01-02,RUB-ASN-2026-000001-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000001-01-03,RUB-ASN-2026-000001-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000001-01-04,RUB-ASN-2026-000001-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000002-01-01,RUB-ASN-2026-000002-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000002-01-02,RUB-ASN-2026-000002-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000002-01-03,RUB-ASN-2026-000002-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000002-01-04,RUB-ASN-2026-000002-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000003-01-01,RUB-ASN-2026-000003-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000003-01-02,RUB-ASN-2026-000003-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000003-01-03,RUB-ASN-2026-000003-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000003-01-04,RUB-ASN-2026-000003-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000004-01-01,RUB-ASN-2026-000004-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000004-01-02,RUB-ASN-2026-000004-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000004-01-03,RUB-ASN-2026-000004-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000004-01-04,RUB-ASN-2026-000004-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000004-02-01,RUB-ASN-2026-000004-02,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000004-02-02,RUB-ASN-2026-000004-02,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000004-02-03,RUB-ASN-2026-000004-02,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000005-01-01,RUB-ASN-2026-000005-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000005-01-02,RUB-ASN-2026-000005-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000005-01-03,RUB-ASN-2026-000005-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000005-01-04,RUB-ASN-2026-000005-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000006-01-01,RUB-ASN-2026-000006-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000006-01-02,RUB-ASN-2026-000006-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000006-01-03,RUB-ASN-2026-000006-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000006-01-04,RUB-ASN-2026-000006-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000007-01-01,RUB-ASN-2026-000007-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000007-01-02,RUB-ASN-2026-000007-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000007-01-03,RUB-ASN-2026-000007-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000008-01-01,RUB-ASN-2026-000008-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000008-01-02,RUB-ASN-2026-000008-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000008-01-03,RUB-ASN-2026-000008-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000008-01-04,RUB-ASN-2026-000008-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000009-01-01,RUB-ASN-2026-000009-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000009-01-02,RUB-ASN-2026-000009-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000009-01-03,RUB-ASN-2026-000009-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000010-01-01,RUB-ASN-2026-000010-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000010-01-02,RUB-ASN-2026-000010-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000010-01-03,RUB-ASN-2026-000010-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000010-02-01,RUB-ASN-2026-000010-02,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000010-02-02,RUB-ASN-2026-000010-02,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000010-02-03,RUB-ASN-2026-000010-02,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000010-02-04,RUB-ASN-2026-000010-02,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000011-01-01,RUB-ASN-2026-000011-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000011-01-02,RUB-ASN-2026-000011-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000011-01-03,RUB-ASN-2026-000011-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000011-01-04,RUB-ASN-2026-000011-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000012-01-01,RUB-ASN-2026-000012-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000012-01-02,RUB-ASN-2026-000012-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000012-01-03,RUB-ASN-2026-000012-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000013-01-01,RUB-ASN-2026-000013-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000013-01-02,RUB-ASN-2026-000013-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000013-01-03,RUB-ASN-2026-000013-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000014-01-01,RUB-ASN-2026-000014-01,1,Algorithm Implementation,Correct and efficient algorithm.,30.00,30.00
+CRT-RUB-ASN-2026-000014-01-02,RUB-ASN-2026-000014-01,2,Data Integrity & Validation,"Type checks, keys and invariants.",25.00,25.00
+CRT-RUB-ASN-2026-000014-01-03,RUB-ASN-2026-000014-01,3,Performance & Scaling,Efficient at volume.,15.00,15.00
+CRT-RUB-ASN-2026-000014-01-04,RUB-ASN-2026-000014-01,4,Test Coverage & Harness,Automated pass/fail tests.,15.00,15.00
+CRT-RUB-ASN-2026-000014-01-05,RUB-ASN-2026-000014-01,5,Documentation & Readme,Instructions and schema notes.,15.00,15.00
+CRT-RUB-ASN-2026-000015-01-01,RUB-ASN-2026-000015-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000015-01-02,RUB-ASN-2026-000015-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000015-01-03,RUB-ASN-2026-000015-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000015-01-04,RUB-ASN-2026-000015-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000016-01-01,RUB-ASN-2026-000016-01,1,Algorithm Implementation,Correct and efficient algorithm.,30.00,30.00
+CRT-RUB-ASN-2026-000016-01-02,RUB-ASN-2026-000016-01,2,Data Integrity & Validation,"Type checks, keys and invariants.",25.00,25.00
+CRT-RUB-ASN-2026-000016-01-03,RUB-ASN-2026-000016-01,3,Performance & Scaling,Efficient at volume.,15.00,15.00
+CRT-RUB-ASN-2026-000016-01-04,RUB-ASN-2026-000016-01,4,Test Coverage & Harness,Automated pass/fail tests.,15.00,15.00
+CRT-RUB-ASN-2026-000016-01-05,RUB-ASN-2026-000016-01,5,Documentation & Readme,Instructions and schema notes.,15.00,15.00
+CRT-RUB-ASN-2026-000017-01-01,RUB-ASN-2026-000017-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000017-01-02,RUB-ASN-2026-000017-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000017-01-03,RUB-ASN-2026-000017-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000017-01-04,RUB-ASN-2026-000017-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000018-01-01,RUB-ASN-2026-000018-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000018-01-02,RUB-ASN-2026-000018-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000018-01-03,RUB-ASN-2026-000018-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000019-01-01,RUB-ASN-2026-000019-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000019-01-02,RUB-ASN-2026-000019-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000019-01-03,RUB-ASN-2026-000019-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000020-01-01,RUB-ASN-2026-000020-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000020-01-02,RUB-ASN-2026-000020-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000020-01-03,RUB-ASN-2026-000020-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000020-01-04,RUB-ASN-2026-000020-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000021-01-01,RUB-ASN-2026-000021-01,1,Algorithm Implementation,Correct and efficient algorithm.,30.00,30.00
+CRT-RUB-ASN-2026-000021-01-02,RUB-ASN-2026-000021-01,2,Data Integrity & Validation,"Type checks, keys and invariants.",25.00,25.00
+CRT-RUB-ASN-2026-000021-01-03,RUB-ASN-2026-000021-01,3,Performance & Scaling,Efficient at volume.,15.00,15.00
+CRT-RUB-ASN-2026-000021-01-04,RUB-ASN-2026-000021-01,4,Test Coverage & Harness,Automated pass/fail tests.,15.00,15.00
+CRT-RUB-ASN-2026-000021-01-05,RUB-ASN-2026-000021-01,5,Documentation & Readme,Instructions and schema notes.,15.00,15.00
+CRT-RUB-ASN-2026-000022-01-01,RUB-ASN-2026-000022-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000022-01-02,RUB-ASN-2026-000022-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000022-01-03,RUB-ASN-2026-000022-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000022-01-04,RUB-ASN-2026-000022-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000023-01-01,RUB-ASN-2026-000023-01,1,Algorithm Implementation,Correct and efficient algorithm.,30.00,30.00
+CRT-RUB-ASN-2026-000023-01-02,RUB-ASN-2026-000023-01,2,Data Integrity & Validation,"Type checks, keys and invariants.",25.00,25.00
+CRT-RUB-ASN-2026-000023-01-03,RUB-ASN-2026-000023-01,3,Performance & Scaling,Efficient at volume.,15.00,15.00
+CRT-RUB-ASN-2026-000023-01-04,RUB-ASN-2026-000023-01,4,Test Coverage & Harness,Automated pass/fail tests.,15.00,15.00
+CRT-RUB-ASN-2026-000023-01-05,RUB-ASN-2026-000023-01,5,Documentation & Readme,Instructions and schema notes.,15.00,15.00
+CRT-RUB-ASN-2026-000024-01-01,RUB-ASN-2026-000024-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000024-01-02,RUB-ASN-2026-000024-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000024-01-03,RUB-ASN-2026-000024-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000024-01-04,RUB-ASN-2026-000024-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000025-01-01,RUB-ASN-2026-000025-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000025-01-02,RUB-ASN-2026-000025-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000025-01-03,RUB-ASN-2026-000025-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000025-01-04,RUB-ASN-2026-000025-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000026-01-01,RUB-ASN-2026-000026-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000026-01-02,RUB-ASN-2026-000026-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000026-01-03,RUB-ASN-2026-000026-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000026-01-04,RUB-ASN-2026-000026-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000027-01-01,RUB-ASN-2026-000027-01,1,Algorithm Implementation,Correct and efficient algorithm.,30.00,30.00
+CRT-RUB-ASN-2026-000027-01-02,RUB-ASN-2026-000027-01,2,Data Integrity & Validation,"Type checks, keys and invariants.",25.00,25.00
+CRT-RUB-ASN-2026-000027-01-03,RUB-ASN-2026-000027-01,3,Performance & Scaling,Efficient at volume.,15.00,15.00
+CRT-RUB-ASN-2026-000027-01-04,RUB-ASN-2026-000027-01,4,Test Coverage & Harness,Automated pass/fail tests.,15.00,15.00
+CRT-RUB-ASN-2026-000027-01-05,RUB-ASN-2026-000027-01,5,Documentation & Readme,Instructions and schema notes.,15.00,15.00
+CRT-RUB-ASN-2026-000028-01-01,RUB-ASN-2026-000028-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000028-01-02,RUB-ASN-2026-000028-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000028-01-03,RUB-ASN-2026-000028-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000028-01-04,RUB-ASN-2026-000028-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000029-01-01,RUB-ASN-2026-000029-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000029-01-02,RUB-ASN-2026-000029-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000029-01-03,RUB-ASN-2026-000029-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000030-01-01,RUB-ASN-2026-000030-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000030-01-02,RUB-ASN-2026-000030-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000030-01-03,RUB-ASN-2026-000030-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000030-01-04,RUB-ASN-2026-000030-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000031-01-01,RUB-ASN-2026-000031-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000031-01-02,RUB-ASN-2026-000031-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000031-01-03,RUB-ASN-2026-000031-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000031-01-04,RUB-ASN-2026-000031-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000032-01-01,RUB-ASN-2026-000032-01,1,Algorithm Implementation,Correct and efficient algorithm.,30.00,30.00
+CRT-RUB-ASN-2026-000032-01-02,RUB-ASN-2026-000032-01,2,Data Integrity & Validation,"Type checks, keys and invariants.",25.00,25.00
+CRT-RUB-ASN-2026-000032-01-03,RUB-ASN-2026-000032-01,3,Performance & Scaling,Efficient at volume.,15.00,15.00
+CRT-RUB-ASN-2026-000032-01-04,RUB-ASN-2026-000032-01,4,Test Coverage & Harness,Automated pass/fail tests.,15.00,15.00
+CRT-RUB-ASN-2026-000032-01-05,RUB-ASN-2026-000032-01,5,Documentation & Readme,Instructions and schema notes.,15.00,15.00
+CRT-RUB-ASN-2026-000033-01-01,RUB-ASN-2026-000033-01,1,Algorithm Implementation,Correct and efficient algorithm.,30.00,30.00
+CRT-RUB-ASN-2026-000033-01-02,RUB-ASN-2026-000033-01,2,Data Integrity & Validation,"Type checks, keys and invariants.",25.00,25.00
+CRT-RUB-ASN-2026-000033-01-03,RUB-ASN-2026-000033-01,3,Performance & Scaling,Efficient at volume.,15.00,15.00
+CRT-RUB-ASN-2026-000033-01-04,RUB-ASN-2026-000033-01,4,Test Coverage & Harness,Automated pass/fail tests.,15.00,15.00
+CRT-RUB-ASN-2026-000033-01-05,RUB-ASN-2026-000033-01,5,Documentation & Readme,Instructions and schema notes.,15.00,15.00
+CRT-RUB-ASN-2026-000034-01-01,RUB-ASN-2026-000034-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000034-01-02,RUB-ASN-2026-000034-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000034-01-03,RUB-ASN-2026-000034-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000034-01-04,RUB-ASN-2026-000034-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000035-01-01,RUB-ASN-2026-000035-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000035-01-02,RUB-ASN-2026-000035-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000035-01-03,RUB-ASN-2026-000035-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000036-01-01,RUB-ASN-2026-000036-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000036-01-02,RUB-ASN-2026-000036-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000036-01-03,RUB-ASN-2026-000036-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000037-01-01,RUB-ASN-2026-000037-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000037-01-02,RUB-ASN-2026-000037-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000037-01-03,RUB-ASN-2026-000037-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000037-01-04,RUB-ASN-2026-000037-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000038-01-01,RUB-ASN-2026-000038-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000038-01-02,RUB-ASN-2026-000038-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000038-01-03,RUB-ASN-2026-000038-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000039-01-01,RUB-ASN-2026-000039-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000039-01-02,RUB-ASN-2026-000039-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000039-01-03,RUB-ASN-2026-000039-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000039-01-04,RUB-ASN-2026-000039-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000040-01-01,RUB-ASN-2026-000040-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000040-01-02,RUB-ASN-2026-000040-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000040-01-03,RUB-ASN-2026-000040-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000040-01-04,RUB-ASN-2026-000040-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000041-01-01,RUB-ASN-2026-000041-01,1,Algorithm Implementation,Correct and efficient algorithm.,30.00,30.00
+CRT-RUB-ASN-2026-000041-01-02,RUB-ASN-2026-000041-01,2,Data Integrity & Validation,"Type checks, keys and invariants.",25.00,25.00
+CRT-RUB-ASN-2026-000041-01-03,RUB-ASN-2026-000041-01,3,Performance & Scaling,Efficient at volume.,15.00,15.00
+CRT-RUB-ASN-2026-000041-01-04,RUB-ASN-2026-000041-01,4,Test Coverage & Harness,Automated pass/fail tests.,15.00,15.00
+CRT-RUB-ASN-2026-000041-01-05,RUB-ASN-2026-000041-01,5,Documentation & Readme,Instructions and schema notes.,15.00,15.00
+CRT-RUB-ASN-2026-000042-01-01,RUB-ASN-2026-000042-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000042-01-02,RUB-ASN-2026-000042-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000042-01-03,RUB-ASN-2026-000042-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000043-01-01,RUB-ASN-2026-000043-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000043-01-02,RUB-ASN-2026-000043-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000043-01-03,RUB-ASN-2026-000043-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000044-01-01,RUB-ASN-2026-000044-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000044-01-02,RUB-ASN-2026-000044-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000044-01-03,RUB-ASN-2026-000044-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000044-01-04,RUB-ASN-2026-000044-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000045-01-01,RUB-ASN-2026-000045-01,1,Problem Solving & Core Logic,Accurate solution and logic.,35.00,35.00
+CRT-RUB-ASN-2026-000045-01-02,RUB-ASN-2026-000045-01,2,Code Quality & Architecture,"Clean, modular structure.",25.00,25.00
+CRT-RUB-ASN-2026-000045-01-03,RUB-ASN-2026-000045-01,3,Testing & Verification,Unit tests and edge cases.,20.00,20.00
+CRT-RUB-ASN-2026-000045-01-04,RUB-ASN-2026-000045-01,4,Documentation & Traceability,"Readme, schema and annotations.",20.00,20.00
+CRT-RUB-ASN-2026-000046-01-01,RUB-ASN-2026-000046-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000046-01-02,RUB-ASN-2026-000046-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000046-01-03,RUB-ASN-2026-000046-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000046-01-04,RUB-ASN-2026-000046-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000047-01-01,RUB-ASN-2026-000047-01,1,Functional Implementation,Meets all business requirements.,50.00,50.00
+CRT-RUB-ASN-2026-000047-01-02,RUB-ASN-2026-000047-01,2,Validation & Error Handling,Handles exceptions and boundaries.,30.00,30.00
+CRT-RUB-ASN-2026-000047-01-03,RUB-ASN-2026-000047-01,3,Technical Reporting,Clear design rationale and outcomes.,20.00,20.00
+CRT-RUB-ASN-2026-000048-01-01,RUB-ASN-2026-000048-01,1,Analysis & Approach,Soundness of the chosen approach.,40.00,40.00
+CRT-RUB-ASN-2026-000048-01-02,RUB-ASN-2026-000048-01,2,Implementation,"Working, readable implementation.",20.00,20.00
+CRT-RUB-ASN-2026-000048-01-03,RUB-ASN-2026-000048-01,3,Evaluation,Quality of experiments / metrics.,20.00,20.00
+CRT-RUB-ASN-2026-000048-01-04,RUB-ASN-2026-000048-01,4,Presentation,Clarity of the write-up.,20.00,20.00
+CRT-RUB-ASN-2026-000049-01-01,RUB-ASN-2026-000049-01,1,Algorithm Implementation,Correct and efficient algorithm.,30.00,30.00
+CRT-RUB-ASN-2026-000049-01-02,RUB-ASN-2026-000049-01,2,Data Integrity & Validation,"Type checks, keys and invariants.",25.00,25.00
+CRT-RUB-ASN-2026-000049-01-03,RUB-ASN-2026-000049-01,3,Performance & Scaling,Efficient at volume.,15.00,15.00
+CRT-RUB-ASN-2026-000049-01-04,RUB-ASN-2026-000049-01,4,Test Coverage & Harness,Automated pass/fail tests.,15.00,15.00
+CRT-RUB-ASN-2026-000049-01-05,RUB-ASN-2026-000049-01,5,Documentation & Readme,Instructions and schema notes.,15.00,15.00
+CRT-RUB-ASN-2026-000050-01-01,RUB-ASN-2026-000050-01,1,Algorithm Implementation,Correct and efficient algorithm.,30.00,30.00
+CRT-RUB-ASN-2026-000050-01-02,RUB-ASN-2026-000050-01,2,Data Integrity & Validation,"Type checks, keys and invariants.",25.00,25.00
+CRT-RUB-ASN-2026-000050-01-03,RUB-ASN-2026-000050-01,3,Performance & Scaling,Efficient at volume.,15.00,15.00
+CRT-RUB-ASN-2026-000050-01-04,RUB-ASN-2026-000050-01,4,Test Coverage & Harness,Automated pass/fail tests.,15.00,15.00
+CRT-RUB-ASN-2026-000050-01-05,RUB-ASN-2026-000050-01,5,Documentation & Readme,Instructions and schema notes.,15.00,15.00
